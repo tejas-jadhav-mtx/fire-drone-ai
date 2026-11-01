@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# data, runs, large media
+datasets/
+runs/
+*.mp4
+*.mat
+*.zip
+!data/crop_yield.csv.zip
+# MATLAB / LaTeX build files
+*.asv
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

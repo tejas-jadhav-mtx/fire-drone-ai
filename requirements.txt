@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pyyaml
+ultralytics
+# on the Raspberry Pi only:
+# pyserial
+# pymavlink
